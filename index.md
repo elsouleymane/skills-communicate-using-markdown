@@ -6,4 +6,8 @@
 ### This is an `<h5>` header
 
 ###### This is an `<h6>` header, which is the smallest
+``` javascript
+var myVar = "Hello, world!";
+```
 ![C'est doyi](https://octodex.github.com/images/yaktocat.png)
+
