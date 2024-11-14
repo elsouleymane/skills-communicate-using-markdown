@@ -6,6 +6,9 @@
 ### This is an `<h5>` header
 
 ###### This is an `<h6>` header, which is the smallest
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 ``` javascript
 var myVar = "Hello, world!";
 ```
